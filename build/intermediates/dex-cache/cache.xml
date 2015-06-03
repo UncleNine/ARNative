@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\project\ARNative\ARNative\build\intermediates\exploded-aar\ARNative\ARBaseLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a98073b87e3be8e773d6219cad6d0e0220076a7b">
+        <dex dex="D:\project\ARNative\ARNative\build\intermediates\pre-dexed\debug\classes-4b39f3d25fb42973c9a0b802b24b839d4defa4de.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+*.so
+*.a
+*.lock
+*.bin
+.gradle
+.idea
+*.class
+*.jar
+*.iml
+*.aar
+*.MF
+*.o
+*.d
+*.dylib
